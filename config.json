@@ -1,0 +1,25 @@
+{
+  "DiscordToken": "",
+  "MinMoney": 15.0,
+  "MaxMoney": 1999.0,
+  "PlayerThreshold": 8,
+  "IgnoreUnknown": false,
+  "IgnoreList": [
+    "La Cucaracha"
+  ],
+  "FilterByNameEnabled": false,
+  "FilterByNameList": [
+    "Graipuss Medussi",
+    "La Grande Combinasion"
+  ],
+  "Bypass10M": true,
+  "ReadChannels": [
+    "notasnek_1m-10m",
+    "10m_plus"
+  ],
+  "ChannelIds": {
+    "10m_plus": [
+      "1401775181025775738"
+    ]
+  }
+}
